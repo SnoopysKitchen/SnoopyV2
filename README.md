@@ -3,7 +3,7 @@ Version: 1.4
 Author: SnoopysKitchen
 
 Overview
-The SoopyV2 Hypixel Skyblock Mod enhances your Hypixel Skyblock gameplay by providing performance improvements, quality-of-life features, and useful tools. Designed as an addon for the ChatTriggers module, this mod takes over rendering and adds features that make your Skyblock experience smoother and more enjoyable.
+The SnoopyV2 Hypixel Skyblock Mod enhances your Hypixel Skyblock gameplay by providing performance improvements, quality-of-life features, and useful tools. Designed as an addon for the ChatTriggers module, this mod takes over rendering and adds features that make your Skyblock experience smoother and more enjoyable.
 
 Features
 Core Features
@@ -16,10 +16,10 @@ Friends Menu (NEW in 1.4):
 Manage your friends list.
 See who’s online/offline.
 Quickly send messages, party invites, etc.
-DOWNLOAD AT https://github.com/Soopyboo32/SoopyV2Forge/releases
+DOWNLOAD AT (https://github.com/SnoopysKitchen/SnoopysKitchen/releases)
 
-More info at https://soopy.dev/soopyv2
+More info at https://snoopyskitchen.dev/snoopyv2
 
-A complete recode of the original soopyaddons chattriggers module (https://github.com/Soopyboo32/soopyaddons) with a lot of improvements
+A complete recode of the original soopyaddons chattriggers module (https://github.com/SnoopysKitchen/SnoopysKitchen/releases) with a lot of improvements
 
 https://www.chattriggers.com/modules/v/SoopyV2
