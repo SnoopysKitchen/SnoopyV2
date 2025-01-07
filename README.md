@@ -1,4 +1,4 @@
-SnoopyV2 Hypixel Skyblock Mod
+**SnoopyV2 Hypixel Skyblock Mod**
 Version: 1.4
 Author: SnoopysKitchen
 
