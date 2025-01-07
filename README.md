@@ -1,10 +1,12 @@
-- 👋 Hi, I’m @SnoopysKitchen
-- 🌱 I’m a Java developer
-- 💞️ I’m looking to collaborate on Hypixel Skyblock Mods
-- 📫 To reach me: add @snoopyK2chen on Discord
-- ⚡ Fun fact: I am actually pretty smart 👌😁
+### NOTE This is no-longer maintained as I have moved to working for badlion:
+[https://badlion.net](https://www.badlion.net/?utm_source=SoopyMods&utm_medium=web&utm_campaign=brand_awareness)
 
-<!---
-SnoopysKitchen/SnoopysKitchen is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+# SoopyV2
+
+DOWNLOAD AT https://github.com/Soopyboo32/SoopyV2Forge/releases
+
+More info at https://soopy.dev/soopyv2
+
+A complete recode of the original soopyaddons chattriggers module (https://github.com/Soopyboo32/soopyaddons) with a lot of improvements
+
+https://www.chattriggers.com/modules/v/SoopyV2
